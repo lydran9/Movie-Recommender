@@ -1,2 +1,2 @@
-# movie_recommender
+# Movie Recommender
 Content Based Movie Recommendation
